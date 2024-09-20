@@ -1,0 +1,63 @@
+{
+  "pages": [
+    {
+      "id": "各項查詢",
+      "isDefault": false
+    },
+    {
+      "id": "AI 查詢",
+      "isDefault": false
+    },
+    {
+      "id": "AI 與 Notion",
+      "isDefault": false
+    },
+    {
+      "id": "客戶資料",
+      "isDefault": true
+    },
+    {
+      "id": "備份程式",
+      "isDefault": false
+    },
+    {
+      "id": "物聯網",
+      "isDefault": false
+    },
+    {
+      "id": "產品資料",
+      "isDefault": false
+    },
+    {
+      "id": "AI 使用 LM Studio",
+      "isDefault": false
+    },
+    {
+      "id": "AI 與 Google Sheet",
+      "isDefault": false
+    },
+    {
+      "id": "AI 與 簡報",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#FFEBFB",
+  "icon": "chat",
+  "chartTheme": "westeros",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
